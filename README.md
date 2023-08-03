@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🤝 I’m looking for help with [E-school](Coming soon)
-
-- 👨‍💻 All of my projects are available at [https://github.com/daviekaranja](https://github.com/daviekaranja)
+- 🤝 I’m looking for help with https://github.com/daviekaranja/academia-plus
 
 - 💬 Ask me about **Python, FastAPI,**
 
