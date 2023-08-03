@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviekaranja&label=Profile%20views&color=0e75b6&style=flat" alt="daviekaranja" /> </p>
 
-- 🔭 I’m currently working on [E-school](https://github.com/daviekaranja/academia-plus)
+- 🔭 I’m currently working on [AcademiaPlus](https://github.com/daviekaranja/academia-plus)
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🤝 I’m looking for help with https://github.com/daviekaranja/academia-plus
+- 🤝 I’m looking for help with [AcademiaPlus](https://github.com/daviekaranja/academia-plus)
 
 - 💬 Ask me about **Python, FastAPI,**
 
