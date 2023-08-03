@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviekaranja&label=Profile%20views&color=0e75b6&style=flat" alt="daviekaranja" /> </p>
 
-- 🔭 I’m currently working on [E-school](Coming soon)
+- 🔭 I’m currently working on [E-school](https://github.com/daviekaranja/academia-plus)
 
 - 🌱 I’m currently learning **Javascript**
 
