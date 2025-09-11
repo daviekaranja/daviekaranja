@@ -1,30 +1,81 @@
-<h1 align="center">Hi 👋, I'm Davie Karanja</h1>
-<h3 align="center">A passionate Full stack Developer from Kenya</h3>
+# Hi, I’m Davie 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daviekaranja&label=Profile%20views&color=0e75b6&style=flat" alt="daviekaranja" /> </p>
+**Full-Stack Web Developer | TypeScript & Next.js Enthusiast | FastAPI | React Native & DevOps**
 
+I build modern, efficient, and maintainable web applications with a focus on **user experience, performance, and developer ergonomics**. My workflow prioritizes **clean architecture, modularity, and reusability**.
 
-- 💬 Ask me about **Python, FastAPI,**
+---
 
-- 📫 How to reach me **daviekaranja95@gmail.com**
+## 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+**Frontend:**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20"/> Framework: Next.js, React, React Native  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="20"/> Styling: Tailwind CSS, Radix UI, Heroicons / Material Symbols  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="RHF" width="20"/> Forms & Validation: React Hook Form + Zod  
+
+**Backend:**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"/> Framework: FastAPI  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="20"/> Database: SQLModel, PostgreSQL  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="20"/> Background Tasks & Queues: Redis, Celery  
+
+**DevOps / Tools:**  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="20"/> Docker & Docker Compose  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="20"/> GitHub Actions for CI/CD  
+- Traefik for reverse proxy / SSL management  
+- WebSockets for real-time features (e.g., logs, notifications)  
+
+---
+
+## 💻 What I Build
+
+- **Admin & Dashboard UIs:** Highly interactive single-page applications with editable tables, modals, and complex forms  
+- **Real-Time Applications:** Log viewers, notifications, and live data dashboards using WebSockets and caching strategies  
+- **Data & Analytics:** Transaction histories, loyalty systems, and performance analytics dashboards  
+- **Bulk Communication Tools:** SMS & contact management platforms with validation, deduplication, and normalization logic  
+- **SEO & Marketing Tools:** Unified admin interfaces to manage SEO metadata with structured content support  
+- **Mobile Apps:** Cross-platform Android/iOS apps using React Native  
+
+---
+
+## 🔹 My Approach
+
+- **Plan → Draft → Review → Refine:** I mirror a developer workflow in both planning and execution  
+- **Clean, Typed, and Modular Code:** TypeScript-first, reusable components, and clear separation of concerns  
+- **UX & Accessibility:** Thoughtful, responsive interfaces that scale from mobile to desktop  
+- **Integration-Ready:** Design patterns and code structure that make backend integration smooth  
+- **Optimized & Maintainable:** useMemo, debouncing, caching, and other best practices baked in from the start  
+
+---
+
+## 📂 Projects & Highlights
+
+- **Real-Time Log Viewer** – WebSocket-based log streaming with level coloring, filtering, and caching  
+- **Bulk SMS Platform** – Contact management with normalization, deduplication, and tag-based filters  
+- **SEO Admin Panel** – Single-page editable SEO metadata dashboard with unified create/edit flows  
+- **Airtime & Payment Dashboards** – Filterable transaction histories with predefined and custom date ranges  
+
+---
+
+## 🔗 Connect with Me
+
+- **Portfolio / Website:** [mazeltov.co.ke](https://mazeltov.co.ke)  
+- **Email:** `davie@example.com` *(replace with your email)*  
+- **LinkedIn:** [linkedin.com/in/davie](#)  
+- **GitHub:** [github.com/yourusername](#)  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-<a href="https://twitter.com/@daviekaranja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@daviekaranja_" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/davie.karanja95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/davie.karanja95/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/davie_karanjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/davie_karanjar/" height="30" width="40" /></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviekaranja&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+<p>&nbsp;</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daviekaranja&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviekaranja" alt="GitHub Streak" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviekaranja&show_icons=true&locale=en&layout=compact" alt="daviekaranja" /></p>
+### ⚡ Fun Fact
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviekaranja&show_icons=true&locale=en" alt="daviekaranja" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviekaranja&" alt="daviekaranja" /></p>
+I enjoy **bridging the gap between backend logic and intuitive frontend interfaces**, building **scalable, maintainable, and real-time applications** with modular UIs and thoughtful developer ergonomics.
